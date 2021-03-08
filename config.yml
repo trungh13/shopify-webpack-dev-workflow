@@ -1,7 +1,8 @@
 development:
-  password: <PASSWORD>
-  theme_id: "<THEME_ID>"
-  store: <STORE_URL>
-  directory: dist/
+  password: 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
+  theme_id: "120454971586"
+  store: adventure-club-2.myshopify.com
+  directory: dist
   ignore_files:
-    - config/settings_data.json
+  - config/settings_data.json
+  - src
